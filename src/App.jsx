@@ -28,9 +28,12 @@ export default function IRSGWebsite() {
           <div className="flex justify-between items-center h-20">
             {/* Logo */}
             <div className="flex items-center cursor-pointer" onClick={() => navigate('home')}>
-              <div className="w-10 h-10 rounded-full bg-gradient-to-br from-blue-800 to-blue-900 flex items-center justify-center mr-3">
-                <span className="text-white font-bold text-lg">IR</span>
-              </div>
+  <img 
+    src="/logo.jpg" 
+    alt="IRSG Logo" 
+    className="h-12"
+  />
+</div>
               <span className="text-xl font-bold" style={{ color: '#0a1a3f' }}>IRSG</span>
             </div>
 
