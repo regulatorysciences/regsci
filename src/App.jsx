@@ -1307,7 +1307,7 @@ function ContactPage() {
                     Book a 30-minute consultation to discuss your regulatory needs.
                   </p>
                   <a
-                    href="https://calendly.com"
+                    href="https://calendly.com/regulatoryscience"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="inline-block text-orange-500 hover:text-orange-600 transition-colors font-medium"
