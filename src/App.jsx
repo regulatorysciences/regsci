@@ -957,13 +957,13 @@ function TBrexaPage() {
             Discover how our integrated regulatory and manufacturing approach can accelerate your biologics development.
           </p>
           <a
-            href="https://tbrexabio.com"
+            href="https://tbrexa.com"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block px-8 py-4 rounded-full text-lg font-semibold text-white transition-all duration-300 hover:shadow-xl hover:scale-105"
             style={{ backgroundColor: '#f97316' }}
           >
-            Visit tBrexaBio.com
+            Visit tBrexa.com
           </a>
         </div>
       </section>
